@@ -1,0 +1,2 @@
+Direkt uygulamayı açmak için,uygulama adlı klasöre koydum uygulamayı,dist'in içindekiyle aynı 
+cuzdan ve database'in içindeki dosyalar aynıdır localhost//cuzdan olarak çağrıyor kodlarda 
